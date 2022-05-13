@@ -2,6 +2,7 @@
 
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nithika Senaweera",
+	"description": "Freecode camp test cases",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
